@@ -1,0 +1,199 @@
+                         ::-webkit-scrollbar {
+                            width: 6px;
+                        }
+                        
+                         ::-webkit-scrollbar-track {
+                            background: #f1f1f1;
+                        }
+                        
+                         ::-webkit-scrollbar-thumb {
+                            background: #081f32;
+                        }
+                        
+                         ::-webkit-scrollbar-thumb:hover {
+                            background: #081f32;
+                        }
+                        
+                        html,
+                        body {
+                            max-width: 100%;
+                            overflow-x: hidden;
+                        }
+                        
+                        .navbar {
+                            background-color: #081f32;
+                        }
+                        
+                        .carousel-inner .carousel-item img {
+                            height: 100%;
+                            width: 100%;
+                            object-fit: cover;
+                        }
+                        
+                        @media(max-width:768px) {
+                            .carousel .carousel-inner {
+                                height: auto;
+                            }
+                        }
+                        
+                        .container {
+                            border-style: solid;
+                            border-color: #081f32;
+                            padding: 4px;
+                            border-width: 6px;
+                            border-radius: 10px;
+                        }
+                        
+                        .col-centered {
+                            display: block;
+                            margin-left: auto;
+                            margin-right: auto;
+                            text-align: center;
+                        }
+                        
+                        .container1 {
+                            background-color: #f7f8fa;
+                        }
+                        
+                        .container1 h3 {
+                            text-align: center;
+                            color: #081f32;
+                            margin-top: 10px;
+                            font-family: 'Times New Roman', Times, serif;
+                            font-size: 50px;
+                        }
+                        
+                        .container1 p {
+                            padding: 2px;
+                            color: #081f32;
+                            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+                            font-weight: 500;
+                            text-align: justify;
+                            font-size: 20px;
+                        }
+                        
+                        button a {
+                            color: #081f32;
+                            font-size: 26px;
+                            padding: 4px;
+                            font-weight: 600;
+                            text-decoration: none;
+                        }
+                        
+                        button a:hover {
+                            color: #081f32;
+                            font-weight: 00;
+                            text-decoration: none;
+                        }
+                        
+                        #btn-primary:hover {
+                            background-color: #ffffff;
+                            border-color: yellow
+                        }
+                        
+                        #btn-primary {
+                            background-color: yellow;
+                            border-color: yellow;
+                            border-style: solid;
+                            border-radius: 6px;
+                        }
+                        
+                        #para {
+                            font-size: 24px;
+                            text-align: justify;
+                            color: #081f32;
+                            font-weight: 300;
+                            font-family: sans-serif;
+                            margin-left: auto;
+                            margin-right: auto;
+                            margin-top: auto;
+                            margin-bottom: auto;
+                        }
+                        
+                        #openaccount {
+                            background-color: #081f32;
+                            border-radius: 6px;
+                        }
+                        
+                        #openaccount h3 {
+                            color: #f1f1f1;
+                            font-size: 28px;
+                        }
+                        
+                        #follow h4 {
+                            color: #081f32;
+                            font-size: 30px;
+                        }
+                        
+                        #follow a {
+                            font-size: 26px;
+                            text-decoration: none;
+                            color: #081f32;
+                        }
+                        
+                        .footer {
+                            padding-top: 6px;
+                            padding-bottom: 6px;
+                            color: #f1f1f1;
+                            background-color: #081f32;
+                            text-align: center;
+                        }
+                        
+                        .footer h6 {
+                            font-family: "Poppins", sans-serif;
+                        }
+                        
+                        .footer a {
+                            color: rgb(211, 224, 22);
+                            text-decoration: none;
+                            font-size: 16px;
+                            font-weight: 500;
+                            font-family: "Poppins", sans-serif;
+                        }
+                        
+                        .footer a:hover {
+                            color: rgb(211, 224, 22);
+                        }
+                        
+                        .container2 {
+                            background-color: #081f32;
+                            border-radius: 6px;
+                            border-color: yellow;
+                            border-style: solid;
+                            text-align: center;
+                        }
+                        
+                        .container2 h2 {
+                            color: orange;
+                        }
+                        
+                        .container2 li {
+                            text-align: justify;
+                            color: white;
+                            font-size: 18px;
+                            font-family: Arial, Helvetica, sans-serif
+                        }
+                        
+                        .container2 p {
+                            color: yellow;
+                            text-align: justify;
+                            margin-left: 10px;
+                            font-size: 20px;
+                        }
+                        
+                        #contact p {
+                            font-size: 18px;
+                            color: #081f32;
+                            text-align: center;
+                        }
+                        
+                        #contact i {
+                            size: 20px;
+                        }
+                        
+                        #contact a {
+                            text-decoration: none;
+                            text-align: center;
+                            color: #081f32;
+                            font-size: 20px;
+                        }
